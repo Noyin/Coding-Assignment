@@ -32,7 +32,7 @@
 
   ## How to execute Assignment 2:
 
-  * input format (`[1, 2 , 3, 4]`)
+  * input format (`[1, 2, 3, 4]`)
 
   * run `node`
 
@@ -42,7 +42,7 @@
 
   ## How to execute Assignment 3:
 
-  * input format (`[1, 2 , 3, 4], 6`)
+  * input format (`[1, 2, 3, 4], 6`)
 
   * run `node`
 
