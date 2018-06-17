@@ -1,0 +1,15 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Cisco assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Noyin",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "23.1.0"
+  }
+}
