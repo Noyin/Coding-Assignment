@@ -1,7 +1,7 @@
 {
   "name": "assignment",
   "version": "1.0.0",
-  "description": "Cisco assignment",
+  "description": "assignment",
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose"
